@@ -1,9 +1,9 @@
-package workshifter.com.app_name.Fragments;
+package com.app_name.Fragments;
 
 
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
-import workshifter.com.app_name.R;
+import com.app_name.R;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

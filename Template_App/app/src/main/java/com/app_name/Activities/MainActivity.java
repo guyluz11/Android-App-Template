@@ -1,7 +1,7 @@
-package workshifter.com.app_name.Activities;
+package com.app_name.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
-import workshifter.com.app_name.R;
+import com.app_name.R;
 
 import android.os.Bundle;
 

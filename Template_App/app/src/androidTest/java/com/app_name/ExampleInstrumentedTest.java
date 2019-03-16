@@ -1,4 +1,4 @@
-package workshifter.com.app_name;
+package com.app_name;
 
 import android.content.Context;
 
