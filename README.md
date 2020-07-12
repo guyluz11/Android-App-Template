@@ -1,7 +1,7 @@
 # Template-App
 
 
-Template for easy and quick Android new project
+Template for easy and quick new Android project
 
 Contains:
 * AndroidX.
