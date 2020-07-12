@@ -13,4 +13,5 @@ Contains:
 * Forgot Password screen.
 
 
-![Image](Media/Images/Screenshot.png?raw=true "Screenshot")
+<img src="https://github.com/guyluz11/Android-App-Template/Media/Images/Screenshot.png" height="450">
+
