@@ -13,5 +13,6 @@ Contains:
 * Forgot Password screen.
 
 
-<img src="https://github.com/guyluz11/Android-App-Template/Media/Images/Screenshot.png" height="450">
+<img src="https://github.com/guyluz11/Android-App-Template/blob/master/Media/Images/Screenshot.png" height="450">
+          
 
