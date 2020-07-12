@@ -11,3 +11,6 @@ Contains:
 * Login screen with beautiful EditText (EditText title and body in the same View).
 * New Account screen.
 * Forgot Password screen.
+
+
+![Image](Media/Images/Screenshot.png?raw=true "Screenshot")
